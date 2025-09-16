@@ -4,7 +4,7 @@ Thank you for your interest in contributing to our project! Every contribution h
 
 Please take a moment to read through this guide before making your contribution. Following these guidelines helps maintain code quality and makes the review process smoother for everyone.
 
-Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community welcoming and inclusive.
+Read our [Code of Conduct](https://github.com/vvulpes-de/.github/blob/main/.github/CODE_OF_CONDUCT.md) to keep our community welcoming and inclusive.
 
 ## Table of Contents
 
@@ -21,8 +21,8 @@ Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community welcoming
 
 Welcome! Here are some resources to help you get started:
 
-- Read the [README.md](./README.md) to understand what this project does
-- Check out our [documentation](./docs/) for detailed guides
+- Read the [README.md](../../README.md) to understand what this project does
+- Check out our [documentation](https://github.com/vvulpes-de/.github/tree/main/docs/) for detailed guides
 - Browse through [existing issues](../../issues) to see what needs help
 
 ### Useful Resources
@@ -74,7 +74,7 @@ Ready to write some code? Great! Here's how to get started:
 
 ## License
 
-By contributing to this project, you agree that your contributions will be licensed under the same license as the project. See [LICENSE](./LICENSE) for details.
+By contributing to this project, you agree that your contributions will be licensed under the same license as the project. See [LICENSE](https://github.com/vvulpes-de/.github/blob/main/LICENSE) for details.
 
 ---
 
